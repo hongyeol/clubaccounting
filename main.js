@@ -8,7 +8,7 @@ import {
 import {
   Button
 } from 'react-native-elements'
-
+ 
 class App extends Component {
   render() {
     return (
