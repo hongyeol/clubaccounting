@@ -1,0 +1,8 @@
+{
+  "exponentServerPort": 19005,
+  "packagerPort": 19007,
+  "packagerPid": 9400,
+  "exponentServerNgrokUrl": "https://9y-68b.hoisn.clubaccounting.exp.direct",
+  "packagerNgrokUrl": "https://packager.9y-68b.hoisn.clubaccounting.exp.direct",
+  "ngrokPid": 11504
+}
